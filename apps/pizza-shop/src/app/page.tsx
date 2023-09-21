@@ -18,6 +18,7 @@ export default function Page(): JSX.Element {
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
         <MainView links={LINKS} />
         <div>Doe maar een tekst</div>
+        <div>Doe nog maar een tekst</div>
       </main>
   );
 }
